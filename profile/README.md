@@ -1,6 +1,10 @@
 > 💡 이코테(나동빈) 강의 커리큘럼에 따라 진행합니다
 
-## 강의 & 교재
+## SCHEDULE
+- 매주 화요일 9시, 온라인 스터디 진행
+- 매주 수요일 8시, 오프라인 스터디 진행
+
+## STUDY
 - [이코테(나동빈)](https://www.youtube.com/watch?v=Mf0pYO8VAZk&list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)
 - 문제 사이트 : 백준, 프로그래머스 이용
 
@@ -19,6 +23,18 @@
 ## MUST
 1. 깃허브 푸시 (6문제 풀이)
 2. 다음 공부 분량에 맞춰 문제 하나 찾아오기
+
+
+## MEMBER
+
+<table align = "center">
+  <tr align = "center">
+    <td><a href="https://github.com/ajung7038"><img src="https://avatars.githubusercontent.com/u/80907516?v=4" width=200></a></td>
+  </tr>
+  <tr align = "center">
+    <td><a href = "https://github.com/ajung7038">주아정 Ajeong Joo</a></td>
+  </tr>
+</table>
 
 
 ## PLAN
