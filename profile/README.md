@@ -31,10 +31,12 @@
   <tr align = "center">
     <td><a href="https://github.com/ajung7038"><img src="https://avatars.githubusercontent.com/u/80907516?v=4" width=200></a></td>
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
+    <td><a href="https://github.com/tmdwo8814"><img src="https://avatars.githubusercontent.com/u/122781590?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/ajung7038">Ajeong</a></td>
     <td><a href = "https://github.com/joonk2">Joonk2 </a></td>
+    <td><a href = "https://github.com/tmdwo8814">Seungjae </a></td>
   </tr>
 </table>
 
