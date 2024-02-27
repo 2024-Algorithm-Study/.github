@@ -32,7 +32,7 @@
     <td><a href="https://github.com/ajung7038"><img src="https://avatars.githubusercontent.com/u/80907516?v=4" width=200></a></td>
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
     <td><a href="https://github.com/tmdwo8814"><img src="https://avatars.githubusercontent.com/u/122781590?v=4" width=200></a></td>
-    <td><a href="https://github.com/hop4ee"><img src="https://avatars.githubusercontent.com/u/155436281?v=4" width=200></a></td>
+    <td><a href="https://github.com/hop4ee"><img src="https://avatars.githubusercontent.com/u/157948022?v=4" width=200></a></td>
     <td><a href="https://github.com/macboy5"><img src="https://avatars.githubusercontent.com/u/106302098?v=4" width=200></a></td>
     <td><a href="https://github.com/ddhi7"><img src="https://avatars.githubusercontent.com/u/144508379?v=4" width=200></a></td>
   </tr>
@@ -40,7 +40,7 @@
     <td><a href = "https://github.com/ajung7038">Ajeong</a></td>
     <td><a href = "https://github.com/joonk2">Joonk2</a></td>
     <td><a href = "https://github.com/tmdwo8814">Seungjae</a></td>
-    <td><a href = "https://github.com/hop4ee">Hop4ee </a></td>
+    <td><a href = "https://github.com/hop4ee">hop4ee</a></td>
     <td><a href = "https://github.com/hop4ee">macboy5</a></td>
     <td><a href = "https://github.com/hop4ee">ddhi7</a></td>
   </tr>
@@ -95,10 +95,5 @@
     <td>8주차</td>
     <td>02.20 ~ 02.26</td>
     <td>21강, 22강, 23강, 24강 (정렬)</td>
-  </tr>
-  <tr align = "center">
-    <td>9주차</td>
-    <td>02.27 ~ 03.04</td>
-    <td>25강 (정렬 알고리즘 비교 및 문제 풀이)</td>
   </tr>
 </table>
