@@ -41,7 +41,7 @@
     <td><a href = "https://github.com/joonk2">Joonk2</a></td>
     <td><a href = "https://github.com/tmdwo8814">Seungjae</a></td>
     <td><a href = "https://github.com/hop4ee">hop4ee</a></td>
-    <td><a href = "https://github.com/hop4ee">macboy5</a></td>
+    <td><a href = "https://github.com/macboy5">macboy5</a></td>
     <td><a href = "https://github.com/hop4ee">ddhi7</a></td>
   </tr>
 </table>
